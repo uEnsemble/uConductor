@@ -1,0 +1,25 @@
+{
+  "name": "uconductor",
+  "version": "1.0.0",
+  "description": "Microservice skeleton for the conductor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uEnsemble/uConductor.git"
+  },
+  "author": "Jesse Antoszyk <jesse@antoszyk.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uEnsemble/uConductor/issues"
+  },
+  "homepage": "https://github.com/uEnsemble/uConductor#readme",
+  "dependencies": {
+    "async": "^2.1.4",
+    "cfenv": "^1.0.3",
+    "express": "^4.14.0",
+    "request": "^2.79.0"
+  }
+}
